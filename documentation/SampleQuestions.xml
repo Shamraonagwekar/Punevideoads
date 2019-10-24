@@ -1,0 +1,47 @@
+<Questions>
+<Question>
+	<Description>The world’s oldest known natural pearl has recently discovered in which Island?</Description>
+	<Answers>
+		<Answer>
+			<Description>Ras Al Khaimah</Description>
+			<IsCorrect>No</IsCorrect>
+		</Answer>
+		<Answer>
+			<Description>Umm Al Qaiwain</Description>
+			<IsCorrect>No</IsCorrect>
+		</Answer>
+		<Answer>
+			<Description>Sharjah</Description>
+			<IsCorrect>No</IsCorrect>
+		</Answer>
+		<Answer>
+			<Description>Abu Dhabi</Description>
+			<IsCorrect>Yes</IsCorrect>
+			<AdditionalInfo>Some description related to the question.</AdditionalInfo>
+		</Answer>
+	</Answers>
+	</Question>	
+	
+	<Question>
+	<Description>The researchers of which country have developed renewable energy storage device?</Description>
+	<Answers>
+		<Answer>
+			<Description>United Kingdom</Description>
+			<IsCorrect>Yes</IsCorrect>
+			<AdditionalInfo>Some description related to the question.</AdditionalInfo>
+		</Answer>
+		<Answer>
+			<Description>United States</Description>
+			<IsCorrect>No</IsCorrect>
+		</Answer>
+		<Answer>
+			<Description>France</Description>
+			<IsCorrect>No</IsCorrect>
+		</Answer>
+		<Answer>
+			<Description>Germany</Description>
+			<IsCorrect>Yes</IsCorrect>
+		</Answer>
+	</Answers>
+	</Question>	
+</Questions>
